@@ -1,0 +1,28 @@
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\bin\Debug\FileWorks.exe.config
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\bin\Debug\FileWorks.exe
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\bin\Debug\FileWorks.pdb
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\obj\Debug\FileWorks.Form1.resources
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\obj\Debug\FileWorks.Properties.Resources.resources
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\obj\Debug\FileWorks.csproj.GenerateResource.Cache
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\obj\Debug\FileWorks.exe
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\obj\Debug\FileWorks.pdb
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\FileWorks\FileWorks\obj\Debug\FileWorks.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\bin\Debug\FileWorks.exe.config
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.exe
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.pdb
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\bin\Debug\FileWorks.exe
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\bin\Debug\FileWorks.pdb
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.Form1.resources
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.Properties.Resources.resources
+C:\Users\Danny\Desktop\Desktop\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.csproj.GenerateResource.Cache
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\bin\Debug\FileWorks.exe.config
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\bin\Debug\FileWorks.exe
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\bin\Debug\FileWorks.pdb
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.csprojAssemblyReference.cache
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.Form1.resources
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.Properties.Resources.resources
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.csproj.GenerateResource.cache
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.csproj.CoreCompileInputs.cache
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.exe
+E:\Working 2\my projects\C# projects\Исходники\FileWorks\FileWorks\obj\Debug\FileWorks.pdb
